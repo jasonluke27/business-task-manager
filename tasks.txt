@@ -1,0 +1,6 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords, 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+jason, jason, jason, 2023-05-15, jason, No
+kyle, join excel formatting, join all excel cells to get the sum, 21 May 2023, 25 May 2023, Yes
+jason, new formatting, format all the the tasks in the new format, 25 May 2023, 23 May 2023, No
+max, last weeks formatting, format all of last weeks tasks, 25 May 2023, 26 May 2023, No
